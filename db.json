@@ -1,0 +1,12 @@
+{
+  "data": {
+    "Codigo": "CARGA",
+    "Nombre": "SISTEMA CARGA",
+    "AltaServicio": "2020-08-27 19:22:32",
+    "Propio": 1,
+    "idPartner": "20601156530"
+  },
+  "success": 1,
+  "error": 0,
+  "message": null
+}
